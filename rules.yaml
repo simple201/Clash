@@ -1,7 +1,6 @@
 payload:  
   # 自定义
   - DOMAIN-SUFFIX,asmrgay.com,🚀 节点选择
-  #- DOMAIN-SUFFIX,alistc.techyifu.com,🚀 节点选择
   - DOMAIN-SUFFIX,nodeseek.com,🚀 节点选择
   - DOMAIN-SUFFIX,hostloc.com,🚀 节点选择
   - DOMAIN-SUFFIX,greasyfork.org,🚀 节点选择
@@ -11,8 +10,6 @@ payload:
   - DOMAIN-SUFFIX,dl-cdn.alpinelinux.org,🚀 节点选择
   - DOMAIN-SUFFIX,o1098464.ingest.sentry.io,🎯 全球直连
   #- IP-CIDR,193.122.119.72/32,🚀 节点选择,no-resolve
-  #- DOMAIN-SUFFIX,jd.smiek.top,🚀 节点选择
-  #- DOMAIN-SUFFIX,qcdn.jd.smiek.top,🚀 节点选择
 ##Google Play
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
   - DOMAIN-SUFFIX,services.googleapis.cn,🚀 节点选择
