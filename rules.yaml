@@ -1,20 +1,19 @@
 payload:  
   # 自定义
-  - DOMAIN-SUFFIX,asmrgay.com,🚀 节点选择
-  - DOMAIN-SUFFIX,nodeseek.com,🚀 节点选择
-  - DOMAIN-SUFFIX,pages.dev,🚀 节点选择
-  - DOMAIN-SUFFIX,hostloc.com,🚀 节点选择
-  - DOMAIN-SUFFIX,greasyfork.org,🚀 节点选择
-  - DOMAIN-SUFFIX,haijiaolove.xyz,🚀 节点选择
-  - DOMAIN-SUFFIX,haijiaoluv.top,🚀 节点选择
+  - DOMAIN-SUFFIX,asmrgay.com
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,pages.dev
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,haijiaolove.xyz
+  - DOMAIN-SUFFIX,haijiaoluv.top
 
-  - DOMAIN-SUFFIX,cdn77.org,🚀 节点选择
-  - DOMAIN-SUFFIX,my.freenom.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dl-cdn.alpinelinux.org,🚀 节点选择
-  - DOMAIN-SUFFIX,o1098464.ingest.sentry.io,🎯 全球直连
-  #- IP-CIDR,193.122.119.72/32,🚀 节点选择,no-resolve
+  - DOMAIN-SUFFIX,cdn77.org
+  - DOMAIN-SUFFIX,my.freenom.com
+  
 ##Google Play
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
-  - DOMAIN-SUFFIX,services.googleapis.cn,🚀 节点选择
-  - DOMAIN-SUFFIX,mtalk.google.com,🚀 节点选择
-  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,services.googleapis.cn  
+  - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+
