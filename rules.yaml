@@ -12,10 +12,10 @@ payload:
   - DOMAIN-SUFFIX,my.freenom.com
   
 ##Google Play
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,*.ngstr-lra8j.com
+  - DOMAIN-SUFFIX,*.xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,services.googleapis.cn  
   - DOMAIN-SUFFIX,mtalk.google.com
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+
 
 
