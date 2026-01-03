@@ -11,11 +11,7 @@ payload:
   - DOMAIN-SUFFIX,cdn77.org
   - DOMAIN-SUFFIX,my.freenom.com
   
-##Google Play
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,services.googleapis.cn  
-  - DOMAIN-SUFFIX,mtalk.google.com
-  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+
 
 
 
